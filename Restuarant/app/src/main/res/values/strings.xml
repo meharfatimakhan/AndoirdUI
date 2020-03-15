@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Restuarant</string>
+    <string name="title_home">Favourites</string>
+    <string name="title_dashboard">Search</string>
+    <string name="title_information">Info</string>
+    <string name="title_notifications">Notifications</string>
+</resources>
